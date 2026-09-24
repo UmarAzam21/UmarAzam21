@@ -1,124 +1,127 @@
-<h1 align="center">Hi 👋, I'm Umar Azam</h1>
-<h3 align="center">Software Developer | Full-Stack, AI & Automation</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UmarAzam21&label=Profile%20views&color=0e75b6&style=flat" alt="UmarAzam21" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e75b6&height=180&section=header&text=Umar%20Azam&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%26%20Automation&descAlignY=58&descSize=18" alt="Umar Azam" width="100%" />
 
----
+<a href="mailto:uazam3033@gmail.com"><img src="https://img.shields.io/badge/Email-uazam3033@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=UmarAzam21&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
-### 🚀 About Me
-- 🔭 I'm currently working on full-stack SaaS and AI-powered applications
-- 🌱 I'm currently exploring AI agents, RAG systems, and workflow automation
-- 👯 I'm looking to collaborate on open source and AI/automation projects
-- 💬 Ask me about Python, backend architecture, or AI integrations
-- 📫 How to reach me: **uazam3033@gmail.com**
+</div>
 
 ---
 
-### 🛠️ Skills
+## About
 
-**💻 Programming Languages**
+I build full-stack SaaS products and AI-powered applications, with a focus on clean backend architecture and practical AI integrations.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**⚙️ Backend Development**
-
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-- RESTful APIs · WebSockets · Authentication & Authorization · JWT
-- Role-Based Access Control (RBAC) · Multi-Tenant Architecture
-- Background Tasks · API Integration
-
-**🎨 Frontend Development**
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-- React Router · Styled Components · Responsive UI/UX
-
-**🤖 AI & Automation**
-
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-
-- RAG Systems · AI Chatbots · LLM Integration · Prompt Engineering
-- Document Q&A · AI Agents · Workflow Automation · AI API Integration
-
-**🗄️ Databases**
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-- SQLAlchemy · PostgreSQL + pgvector · Database Design & Optimization
-
-**☁️ DevOps & Deployment**
-
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-- Railway · PythonAnywhere · Git & GitHub Actions · CI/CD
-
-**🔧 Tools & Technologies**
-
-- Celery · Kafka · Redis · REST APIs · SMTP · IMAP
-- Cloudinary · Zoom API · Google Meet API · Meta APIs
-- Third-Party API Integration
-
-**🏗️ Software Architecture**
-
-- Full-Stack Development · SaaS Development · Microservices
-- Multi-Tenant Systems · ERP Systems · GRC Platforms · CMS Development
-- API-First Architecture · Scalable Backend Systems · Database Architecture
-
-**🔐 Security**
-
-- JWT Authentication · RBAC · Permission Management
-- Secure API Design · Environment Variables · Data Validation
-
-**📊 Other**
-
-- Git/GitHub · Agile Development · Debugging & Troubleshooting
-- System Design · API Documentation · Performance Optimization
-- Technical Problem Solving
+- **Currently building:** full-stack SaaS and AI-powered applications
+- **Currently exploring:** AI agents, RAG systems, and workflow automation
+- **Open to:** collaborating on open-source and AI/automation projects
+- **Ask me about:** Python, backend architecture, and AI integrations
 
 ---
 
-### 📊 GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmarAzam21&show_icons=true&theme=radical&count_private=true" alt="UmarAzam21 stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarAzam21&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmarAzam21&theme=radical" alt="GitHub Streak"/>
-</p>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,js,ts,html,css" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi,django,redis,kafka" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI & Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
+      <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel" alt="DevOps" />
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" />
+      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🌐 Connect with Me
+## What I Do
 
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:uazam3033@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+| Area | Focus |
+|---|---|
+| **Backend Engineering** | REST APIs, WebSockets, JWT auth, RBAC, multi-tenant architecture, background tasks (Celery), API integrations |
+| **Frontend Engineering** | Responsive, component-driven UIs with React, Next.js, and Tailwind CSS |
+| **AI & Automation** | RAG systems, document Q&A, AI chatbots and agents, LLM integration, prompt engineering, workflow automation |
+| **Architecture** | SaaS platforms, microservices, ERP / GRC systems, CMS development, API-first design |
+| **Data** | Database design and optimization with PostgreSQL, SQLAlchemy, and pgvector |
+| **Security** | Secure API design, permission management, data validation, environment-based configuration |
+| **Integrations** | Zoom, Google Meet, Meta APIs, SMTP / IMAP, Cloudinary |
 
 ---
 
-<p align="center"><i>Thanks for stopping by! ⭐ this repo if you found it useful.</i></p>
+## Featured Projects
+
+<!-- Replace the placeholders below with your best repositories -->
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/UmarAzam21/REPO-NAME-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=UmarAzam21&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" alt="Project 1" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/UmarAzam21/REPO-NAME-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=UmarAzam21&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" alt="Project 2" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=UmarAzam21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmarAzam21&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=UmarAzam21&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's build something great together.**
+Reach me at [uazam3033@gmail.com](mailto:uazam3033@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e75b6&height=100&section=footer" alt="footer" width="100%" />
+
+</div>
