@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e75b6&height=180&section=header&text=Umar%20Azam&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Full-Stack%20%C2%B7%20AI%20%26%20Automation&descAlignY=58&descSize=18" alt="Umar Azam" width="100%" />
+<img src="./banner.svg" alt="Umar Azam" width="100%" />
 
 <a href="mailto:uazam3033@gmail.com"><img src="https://img.shields.io/badge/Email-uazam3033@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -122,6 +122,5 @@ I build full-stack SaaS products and AI-powered applications, with a focus on cl
 **Let's build something great together.**
 Reach me at [uazam3033@gmail.com](mailto:uazam3033@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0e75b6&height=100&section=footer" alt="footer" width="100%" />
 
 </div>
